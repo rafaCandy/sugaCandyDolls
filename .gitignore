@@ -1,0 +1,16 @@
+# Git Ignore for Websites
+# Ignore everything
+/*
+# Except the following directories
+!/.gitignore
+!/index.html
+!/assets/css/
+!/assets/js/
+!/assets/img/
+!/assets/fonts/
+
+# Unused files
+!/assets/favicon.ico
+!/assets/robots.txt
+!/assets/sitemap.xml
+!/assets/humans.txt
