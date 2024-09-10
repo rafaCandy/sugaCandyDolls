@@ -4,10 +4,7 @@
 # Except the following directories
 !/.gitignore
 !/index.html
-!/assets/css/
-!/assets/js/
-!/assets/img/
-!/assets/fonts/
+!/assets/*
 
 # Unused files
 !/assets/favicon.ico
